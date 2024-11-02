@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Data Scientist/ Quantitative Researcher focusing on applied AI.
+Data Scientist focusing on applied AI.
 
 
 ## 🌐 Socials:
