@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome
 
-# 💫 About Me:
+# About Me:
 Data Scientist focusing on applied AI.
 
 
