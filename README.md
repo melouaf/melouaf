@@ -1,4 +1,4 @@
-## Welcome
+# Welcome!
 
 # About Me:
 Data Scientist focusing on applied AI.
